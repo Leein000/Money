@@ -1,0 +1,6 @@
+name: Dev
+version: '${project.version}'
+main: money.dev.Dev
+api-version: 1.17
+commands:
+  money:
